@@ -50,6 +50,16 @@
 ![GPU](https://img.shields.io/badge/Nvidia_GeForce_4070-6400f4?style=for-the-badge&label=GPU)
 ![NVME](https://img.shields.io/badge/2x4TB-6400f4?style=for-the-badge&label=NVME)
 
+# 📊 GitHub Stats
+
+![Endkind's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=endkind&show_icons=true&icon_color=6400d4&theme=dark#gh-dark-mode-only)
+![Endkind's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=endkind&show_icons=true&icon_color=6400d4&theme=default#gh-light-mode-only)
+
+![Endkind's Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=endkind&layout=compact&theme=dark#gh-dark-mode-only)
+![Endkind's Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=endkind&layout=compact&theme=default#gh-light-mode-only)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endkind/endkind/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endkind/endkind/output/github-snake.svg" />
