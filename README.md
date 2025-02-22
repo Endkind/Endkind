@@ -43,6 +43,13 @@
 ![Nvidia](https://img.shields.io/badge/Nvidia-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/intel-0071c5.svg?style=for-the-badge&logo=intel&logoColor=white)
 
+# 💻 PC Stats
+
+![CPU](https://img.shields.io/badge/Intel_Core_i9--13900HX-6400f4?style=for-the-badge&label=CPU)
+![RAM](https://img.shields.io/badge/64GB-6400f4?style=for-the-badge&label=RAM)
+![GPU](https://img.shields.io/badge/Nvidia_GeForce_4070-6400f4?style=for-the-badge&label=GPU)
+![NVME](https://img.shields.io/badge/2x4TB-6400f4?style=for-the-badge&label=NVME)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endkind/endkind/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endkind/endkind/output/github-snake.svg" />
