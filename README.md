@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-181717.svg?style=for-the-badge&logo=gitlab)
+![GitLab CI/CD](https://img.shields.io/badge/gitlab%20ci%2Fcd-181717.svg?style=for-the-badge&logo=gitlab)
 ![Prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
