@@ -1,5 +1,23 @@
+# 👋 Hi, I'm [Endkind Ender](https://jmp.zip/PIG4ANgXzP)
 
-# 💻 Tech Stack
+I'm a full-stack developer with a focus on privacy-friendly tools, automation, and modern infrastructure.  
+I develop modular systems, PaperMC plugins, Docker images, and full-stack applications in Python, Java, Laravel and FastAPI.
+
+## 🚀 Featured Projects
+
+- **[jmp.zip](https://jmp.zip)** / **[endkind.zip](https://endkind.zip)**  
+  A 100% tracking-free URL shortener – focused on privacy and speed.
+
+- **EnderMC** – [mc.endkind.net](https://mc.endkind.net)  
+  A crossplay Minecraft network – developed and hosted by me.
+
+- **PaperMC Plugins**  
+  Custom plugins tailored for performance and modularity – actively used in production.
+
+- **Docker Images**  
+  Clean and production-ready containers for various Minecraft server types and proxies.
+
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -45,14 +63,14 @@
 ![Nvidia](https://img.shields.io/badge/Nvidia-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/intel-0071c5.svg?style=for-the-badge&logo=intel&logoColor=white)
 
-# 💻 PC Stats
+## 💻 PC Stats
 
 ![CPU](https://img.shields.io/badge/Intel_Core_i9--13900HX-6400f4?style=for-the-badge&label=CPU)
 ![RAM](https://img.shields.io/badge/64GB-6400f4?style=for-the-badge&label=RAM)
 ![GPU](https://img.shields.io/badge/Nvidia_GeForce_4070-6400f4?style=for-the-badge&label=GPU)
 ![NVME](https://img.shields.io/badge/2x4TB-6400f4?style=for-the-badge&label=NVME)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 [![Endkind's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=endkind&show_icons=true&icon_color=6400d4&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![Endkind's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=endkind&show_icons=true&icon_color=6400d4&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
